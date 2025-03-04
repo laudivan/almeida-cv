@@ -7,6 +7,9 @@ other = "Experience"
 [education]
 other = "Education"
 
+[projects]
+other = "Projects"
+
 [references]
 other = "References"
 
